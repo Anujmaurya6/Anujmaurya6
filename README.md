@@ -45,7 +45,8 @@
 ---
 
 ### 📫 Connect With Me
-- Gmail: `anuj******@gmail.com`  
+- Gmail: maurya913639@gmail.com,
+- phone-8591458200,
 - LinkedIn: [linkedin.com/in/anujmaurya6](https://linkedin.com/in/anujmaurya6) *(add this if you have it)*  
 - GitHub: [github.com/Anujmaurya6](https://github.com/Anujmaurya6)
 
