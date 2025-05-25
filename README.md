@@ -39,7 +39,6 @@
 ### 📌 Currently Working On
 - Building Spring Boot + Frontend integrated apps  
 - Making all APIs production-ready using validation and exception handling  
-- Preparing for high-paying backend development roles (15+ LPA goal 🚀)
 
 ---
 
