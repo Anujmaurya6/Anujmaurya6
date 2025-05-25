@@ -26,7 +26,6 @@
 
 #### ⚙️ Tools & IDEs
 - `Postman`, `IntelliJ IDEA`, `Eclipse`, `Git`, `GitHub`
-- 
 ---
 
 ### 🔨 Projects I've Built
@@ -47,7 +46,7 @@
 ### 📫 Connect With Me
 - Gmail: maurya913639@gmail.com,
 - phone-8591458200,
-- LinkedIn: [linkedin.com/in/anujmaurya6](https://linkedin.com/in/anujmaurya6) *(add this if you have it)*  
+- LinkedIn: [linkedin.com/in/anujmaurya6](https://linkedin.com/in/anujmaurya6) ,
 - GitHub: [github.com/Anujmaurya6](https://github.com/Anujmaurya6)
 
 ---
