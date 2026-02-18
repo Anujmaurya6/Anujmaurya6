@@ -91,13 +91,7 @@ I believe in consistency, discipline, and building real-world projects to grow a
 
 ---
 
-## 📊 Weekly Coding Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anujmaurya6&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
+ 
 
 ## 🔥 Contribution Graph (Snake Animation 🐍)
 
