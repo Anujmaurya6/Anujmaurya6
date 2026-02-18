@@ -1,26 +1,27 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00F7FF;">Anuj Maurya</span>
-</h1>
+<table>
+<tr>
+<td width="60%">
 
-<h3 align="center">
-  🚀 Java Full Stack Developer | MERN Stack Explorer | DSA Learner
-</h3>
+### 🧠 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+MERN;DSA+Learner+%7C+Problem+Solver;Consistency+is+my+Superpower" />
-</p>
+* 🎓 B.Tech AIML Student
+* 💻 Java & Spring Boot Backend Developer
+* 🌐 MERN Stack Explorer
+* 🧠 Practicing DSA
+* ⚡ Building real-world projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Java%20Full%20Stack-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/DSA-Learning-orange?style=for-the-badge" />
-</p>
+</td>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anujmaurya6&label=Profile%20Views&color=00F7FF&style=flat" />
-</p>
+<td width="40%" align="center">
 
----
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+width="180px" 
+style="border-radius:50%; border:3px solid #00F7FF;" />
+
+</td>
+</tr>
+</table>
+
 
 ### 🧠 About Me
 
