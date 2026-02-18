@@ -83,13 +83,36 @@ I believe in consistency, discipline, and building real-world projects to grow a
 
 ---
 
-## 🔥 Optional Live Stats (if API works)
+## 📊 GitHub Activity & Graphs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujmaurya6&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujmaurya6&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anujmaurya6&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Stats Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anujmaurya6&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Most Used Languages (Graph)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujmaurya6&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ## 🚀 Projects
 
