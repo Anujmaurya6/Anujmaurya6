@@ -7,17 +7,41 @@
 
 ---
 
-## 🧠 About Me
+<table>
+<tr>
+<td width="50%">
 
-I am a B.Tech student in Artificial Intelligence & Machine Learning, focused on building strong fundamentals in backend development and full stack systems.
+### 🧠 About Me
 
-I work primarily with Java and Spring Boot, developing scalable REST APIs and integrating them with modern frontend technologies like React and Next.js.
+* 🎓 B.Tech AIML Student
+* 💻 Java & Spring Boot Backend Developer
+* 🌐 Exploring Full Stack (React + MERN)
+* 🧠 Practicing DSA for strong problem solving
+* ⚡ Focused on building real-world scalable systems
 
-Alongside development, I am actively improving my problem-solving skills through Data Structures and Algorithms (DSA), aiming to build efficient and optimized solutions.
+### 📌 Currently
 
-I believe in consistency, discipline, and building real-world projects to grow as a developer.
+* 🚀 Working on Full Stack Projects
+* 🔥 Learning Microservices & System Design
+* 🐳 Exploring Docker & CI/CD
+
+### 📫 Reach Me
+
+* 📧 [maurya913639@gmail.com](mailto:maurya913639@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/anujmaurya6
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 ## ⚔️ Tech Stack
 
