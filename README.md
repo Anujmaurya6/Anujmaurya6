@@ -1,59 +1,83 @@
 <h1 align="center">Hi 👋, I'm Anuj Maurya</h1>
-<h3 align="center">Backend Developer | B.Tech AIML Student | Java & Spring Boot Enthusiast</h3>
+<h3 align="center">🚀 Java Full Stack Developer | MERN Stack | DSA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MERN;DSA+Learner+%7C+Problem+Solver;Building+Scalable+Systems" />
+</p>
 
 ---
 
-### 🚀 About Me
-- 🎓 I'm currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**  
-- 💻 Passionate about building **Java-based backend systems** using **Spring Boot, Hibernate, MySQL**
-- 🌱 Currently learning and building projects using:  
-  `Spring Boot` | `JPA` | `Postman API` | `JDBC` | `MySQL` | `Exception Handling`
-- 🧠 Exploring real-world concepts like `DTO`, `Entity Relationship`, and `Global Exception Handling`
+## ⚔️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,spring,mysql,postgres,mongodb,docker,jenkins,git,postman" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-#### 👨‍💻 Languages
-- `C`, `HTML`, `CSS`, `Java (Core)`
-
-#### 🚀 Frameworks & Tools
-- `Spring Boot`, `Hibernate`, `JPA`, `Spring Security`  
-  *(Microservices - Coming Soon!)*
-
-#### 🗃️ Database
-- `MySQL`
-
-#### ⚙️ Tools & IDEs
-- `Postman`, `IntelliJ IDEA`, `Eclipse`, `Git`, `GitHub`
----
-
-### 🔨 Projects I've Built
-- 🔹 **Admin-Employee Management System** – Full CRUD with Role-based Access  
-- 🔹 **Course Management System** – Many-to-Many mapping using JPA  
-- 🔹 **Customer-Order System** – REST APIs with DTO + Global Exception Handling  
-> ✅ All tested using Postman APIs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anujmaurya6&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anujmaurya6&theme=tokyonight" />
+</p>
 
 ---
 
-### 📌 Currently Working On
-- Building Spring Boot + Frontend integrated apps  
-- Making all APIs production-ready using validation and exception handling  
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujmaurya6&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Connect With Me
-- Gmail: maurya913639@gmail.com,
-- phone-8591458200,
-- LinkedIn: [linkedin.com/in/anujmaurya6](https://linkedin.com/in/anujmaurya6) ,
-- GitHub: [github.com/Anujmaurya6](https://github.com/Anujmaurya6)
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anujmaurya6&theme=tokyonight&row=1&column=6" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-> I understand concepts deeply, and I’m building a strong Java backend foundation for real-world projects 🚀
+## 🚀 Projects
+
+### 🏥 Hospital Management System
+
+Spring Boot | MySQL | Next.js | Docker | CI/CD
+
+### 📊 FinSight AI – Financial Analytics
+
+Spring Boot | PostgreSQL | Spring AI | React
+
+### 💬 Realtime Collaboration App
+
+MERN Stack | Socket.IO | Docker
 
 ---
 
-### ❤️ Let's Connect and Build Something Awesome Together!
+## 🧠 Focus
 
+`Backend Engineering` `System Design` `Full Stack Development` `DSA`
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anujmaurya6"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:maurya913639@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/Anujmaurya6"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anujmaurya6&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code. Improve. Repeat. That’s the path."</i>
+</p>
