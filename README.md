@@ -7,57 +7,61 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+MERN;Problem+Solver+%7C+DSA+Learner;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+MERN;Problem+Solver+%7C+DSA+Learner;Consistency+is+my+Superpower" />
 </p>
-
----
-
-## 🚀 Quick Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-3+-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech-Java%20Full%20Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Active-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Systems-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Full%20Stack-blue?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/DSA-Learning-orange?style=for-the-badge" />
 </p>
 
 ---
+
+<br>
+
+<table>
+<tr>
+<td width="60%">
 
 ## 🧠 About Me
 
 I am a B.Tech student in Artificial Intelligence & Machine Learning,
-focused on backend engineering and building scalable full stack systems.
+focused on building strong backend systems and scalable applications.
 
-* 🎓 B.Tech AIML (Mumbai)
-* 💻 Java + Spring Boot Developer
-* 🌐 Exploring MERN Stack
-* 🧠 Strong focus on DSA & problem solving
-* ⚡ Building real-world projects
+* 🎓 Currently pursuing AIML
+* 💻 Backend Developer (Java + Spring Boot)
+* 🌐 Exploring Full Stack (React + MERN)
+* 🧠 Improving problem-solving with DSA
+* ⚡ Passionate about real-world projects
 
----
+<br>
 
-## 🎯 2026 Goals
+## 📌 What I'm Doing
 
-* 🚀 Crack product-based company (15+ LPA)
-* 🔥 Master Spring Boot + Microservices
-* 🧠 Strong DSA for interviews
-* ☁️ Deploy full stack apps on cloud
+* 🚀 Building Full Stack Applications
+* 🔥 Learning Microservices & System Design
+* 🐳 Working with Docker & CI/CD
+* 📈 Improving coding consistency daily
 
----
+<br>
 
-## 💼 Experience
+## 📫 Reach Me
 
-* 👨‍💻 Built multiple full stack applications
-* ⚙️ Developed REST APIs using Spring Boot
-* 🐳 Worked with Docker & CI/CD pipelines
-* 🧪 Testing using JUnit & Mockito
+* 📧 **[maurya913639@gmail.com](mailto:maurya913639@gmail.com)**
+* 💼 **linkedin.com/in/anujmaurya6**
 
----
+</td>
 
-## 🎓 Education
+<td width="40%" align="center">
 
-* 🎓 B.Tech in Artificial Intelligence & Machine Learning
-* 📍 Mumbai, India
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" style="border-radius:20px;" />
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
@@ -67,15 +71,58 @@ focused on backend engineering and building scalable full stack systems.
   <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,spring,mysql,postgres,mongodb,docker" />
 </p>
 
+<p align="center">
+  <b>Java • JavaScript • Spring Boot • React • Node.js • MySQL • MongoDB • Docker</b>
+</p>
+
+<br>
+
 ---
 
-## 🔗 Featured Projects (Click to Explore)
+## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Anujmaurya6">
-    <img src="https://img.shields.io/badge/View%20Projects-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anujmaurya6&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anujmaurya6&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+---
+
+## 🚀 Live Developer Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anujmaurya6&theme=tokyonight" />
+</p>
+
+<br>
+
+---
+
+## 💻 Coding Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujmaurya6&theme=tokyo-night" />
+</p>
+
+<br>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Full%20Stack-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-red?style=for-the-badge" />
+</p>
+
+<br>
 
 ---
 
@@ -85,67 +132,34 @@ focused on backend engineering and building scalable full stack systems.
 
 Spring Boot | MySQL | Next.js | Docker | CI/CD
 
+* Multi-role system (Admin, Doctor, Patient)
+* REST APIs + Database integration
+* Dockerized deployment
+* CI/CD pipeline implementation
+
+---
+
 ### 📊 FinSight AI
 
 Spring Boot | PostgreSQL | Spring AI | React
+
+* Expense tracking & insights
+* Risk analysis system
+* AI-powered recommendations
+
+---
 
 ### 💬 Realtime Collaboration App
 
 MERN Stack | Socket.IO | Docker
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anujmaurya6&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Anujmaurya6&theme=tokyonight" />
-</p>
+* Real-time chat application
+* Live updates using WebSockets
+* MongoDB storage
 
 ---
 
-## 📈 Coding Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujmaurya6&theme=tokyo-night" />
-</p>
-
----
-
-## 🌍 Interests & Strengths
-
-* 🤝 Team Collaboration
-* 🧠 Problem Solving
-* ⚡ Backend Optimization
-* 🚀 Building scalable systems
-
----
-
-## 🧾 Certifications (Add Later)
-
-* (Add your certifications here when completed)
-
----
-
-## ✍️ Blog / Writing
-
-* Coming soon... (Dev.to / Medium)
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:maurya913639@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/anujmaurya6">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/Anujmaurya6">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+<br>
 
 ---
 
@@ -153,12 +167,13 @@ MERN Stack | Socket.IO | Docker
 
 <p align="center">
   <i>
-  The journey is long, but every line of code brings me closer to mastery.
+  Every line of code you write today,  
+  builds the engineer you become tomorrow.
   </i>
 </p>
 
 <p align="center">
-  <b>🚀 Build. Learn. Repeat.</b>
+  <b>🚀 Keep building. Keep learning. Keep growing.</b>
 </p>
 
 ---
