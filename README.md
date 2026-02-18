@@ -53,20 +53,40 @@ I believe in consistency, discipline, and building real-world projects to grow a
   <img src="https://streak-stats.demolab.com?user=Anujmaurya6&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 Most Used Languages
+## 📈 Most Used Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujmaurya6&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,spring,mysql,postgres,mongodb,docker" />
+</p>
+
+<p align="center">
+  <b>Java • JavaScript • Spring Boot • React • Node.js • MySQL • MongoDB • Docker</b>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anujmaurya6&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Java-Full%20Stack%20Developer-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Expert-brightgreen?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-blue?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-Built%203%2B-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Developed-important?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Implemented-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker" />
+</p>
+
+---
+
+## 🔥 Optional Live Stats (if API works)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujmaurya6&layout=compact&theme=tokyonight" />
 </p>
 
 ---
