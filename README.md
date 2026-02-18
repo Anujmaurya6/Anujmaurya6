@@ -1,15 +1,26 @@
-<h1 align="center">Hi 👋, I'm Anuj Maurya</h1>
-<h3 align="center">🚀 Java Full Stack Developer | MERN Stack Explorer | DSA Learner</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00F7FF;">Anuj Maurya</span>
+</h1>
+
+<h3 align="center">
+  🚀 Java Full Stack Developer | MERN Stack Explorer | DSA Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+MERN;Passionate+About+Problem+Solving;Consistent+Learner+%7C+Future+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+MERN;DSA+Learner+%7C+Problem+Solver;Consistency+is+my+Superpower" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Java%20Full%20Stack-blue?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/DSA-Learning-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anujmaurya6&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
 
 ---
-
-<table>
-<tr>
-<td width="50%">
 
 ### 🧠 About Me
 
