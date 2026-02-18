@@ -83,42 +83,43 @@ I believe in consistency, discipline, and building real-world projects to grow a
 
 ---
  
-
-## 📊 GitHub Stats Overview
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repositories-Multiple-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Java%20Full%20Stack-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Learning-red?style=for-the-badge" />
-</p>
+## 🚀 Live Developer Activity
 
 <p align="center">
-  <b>Consistent developer building backend systems, full stack apps, and improving problem-solving skills.</b>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anujmaurya6&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Most Used Technologies
+## 📊 Weekly Coding Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,spring,mysql,postgres,mongodb,docker" />
-</p>
-
-<p align="center">
-  <b>Java • JavaScript • Spring Boot • React • Node.js • MySQL • MongoDB • Docker</b>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anujmaurya6&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
 
-## 🔥 Optional Live Stats (Auto Load if Available)
+## 🔥 Contribution Graph (Snake Animation 🐍)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anujmaurya6&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+---
+
+## 💻 Coding Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujmaurya6&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujmaurya6&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧠 Developer Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anujmaurya6&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anujmaurya6&theme=tokyonight" />
 </p>
 
 
