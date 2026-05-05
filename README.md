@@ -1,13 +1,13 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00F7FF;">Anuj Maurya</span>
+  👋 Hi, I'm <span style="color:#00F7FF;">Anuj Maurya</span>
 </h1>
 
 <h3 align="center">
-  🚀 Java Full Stack Developer | MERN Stack Explorer | DSA Learner
+  🚀 Java Full Stack Developer | MERN Stack | Backend-Focused Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+MERN;Problem+Solver+%7C+DSA+Learner;Consistency+is+my+Superpower" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+MERN;Problem+Solver+%7C+DSA+Learner;Consistency+is+my+Superpower" />
 </p>
 
 <p align="center">
@@ -27,13 +27,13 @@
 ## 🧠 About Me
 
 I am a B.Tech student in Artificial Intelligence & Machine Learning,
-focused on building strong backend systems and scalable applications.
+focused on building **robust backend systems and scalable applications**.
 
-* 🎓 Currently pursuing AIML
+* 🎓 Pursuing AIML (B.Tech)
 * 💻 Backend Developer (Java + Spring Boot)
 * 🌐 Exploring Full Stack (React + MERN)
-* 🧠 Improving problem-solving with DSA
-* ⚡ Passionate about real-world projects
+* 🧠 Strengthening problem-solving through DSA
+* ⚡ Passionate about real-world, production-ready projects
 
 <br>
 
@@ -49,7 +49,7 @@ focused on building strong backend systems and scalable applications.
 ## 📫 Reach Me
 
 * 📧 **[maurya913639@gmail.com](mailto:maurya913639@gmail.com)**
-* 💼 **linkedin.com/in/anujmaurya6**
+* 💼 **[linkedin.com/in/anujmaurya6](https://linkedin.com/in/anujmaurya6)**
 
 </td>
 
@@ -68,11 +68,11 @@ focused on building strong backend systems and scalable applications.
 ## ⚔️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,spring,mysql,postgres,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,spring,mysql,postgres,mongodb,docker,git" />
 </p>
 
 <p align="center">
-  <b>Java • JavaScript • Spring Boot • React • Node.js • MySQL • MongoDB • Docker</b>
+  <b>Java • JavaScript • Spring Boot • React • Node.js • Express • MySQL • PostgreSQL • MongoDB • Docker • Git</b>
 </p>
 
 <br>
@@ -130,20 +130,20 @@ focused on building strong backend systems and scalable applications.
 
 ### 🏥 Hospital Management System
 
-Spring Boot | MySQL | Next.js | Docker | CI/CD
+**Spring Boot | MySQL | Next.js | Docker | CI/CD**
 
 * Multi-role system (Admin, Doctor, Patient)
-* REST APIs + Database integration
-* Dockerized deployment
+* Clean REST APIs with proper architecture
+* Dockerized deployment setup
 * CI/CD pipeline implementation
 
 ---
 
 ### 📊 FinSight AI
 
-Spring Boot | PostgreSQL | Spring AI | React
+**Spring Boot | PostgreSQL | Spring AI | React**
 
-* Expense tracking & insights
+* Expense tracking & intelligent insights
 * Risk analysis system
 * AI-powered recommendations
 
@@ -151,11 +151,11 @@ Spring Boot | PostgreSQL | Spring AI | React
 
 ### 💬 Realtime Collaboration App
 
-MERN Stack | Socket.IO | Docker
+**MERN Stack | Socket.IO | Docker**
 
 * Real-time chat application
-* Live updates using WebSockets
-* MongoDB storage
+* WebSocket-based live updates
+* Efficient MongoDB data handling
 
 ---
 
@@ -167,8 +167,8 @@ MERN Stack | Socket.IO | Docker
 
 <p align="center">
   <i>
-  Every line of code you write today,  
-  builds the engineer you become tomorrow.
+  Every line of code you write today,<br>
+  shapes the engineer you become tomorrow.
   </i>
 </p>
 
