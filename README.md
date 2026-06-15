@@ -1,24 +1,19 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00F7FF;">Anuj Maurya</span>
-</h1>
+# Hi 👋, I'm Anuj Maurya
 
-<h3 align="center">
-  🚀 Java Full Stack Developer | MERN Stack Explorer | DSA Learner
-</h3>
+### 🚀 Java Full Stack Developer | Spring Boot Enthusiast | DSA Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+MERN;Problem+Solver+%7C+DSA+Learner;Consistency+is+my+Superpower" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+React;DSA+Problem+Solver;Learning+System+Design+%26+Microservices;Consistency+is+my+Superpower" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Full%20Stack-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/DSA-Learning-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend-success?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-orange?style=for-the-badge" />
 </p>
 
 ---
-
-<br>
 
 <table>
 <tr>
@@ -26,60 +21,157 @@
 
 ## 🧠 About Me
 
-I am a B.Tech student in Artificial Intelligence & Machine Learning,
-focused on building strong backend systems and scalable applications.
+I am a B.Tech student pursuing Artificial Intelligence & Machine Learning (AIML), passionate about backend engineering and scalable software systems.
 
-* 🎓 Currently pursuing AIML
-* 💻 Backend Developer (Java + Spring Boot)
-* 🌐 Exploring Full Stack (React + MERN)
-* 🧠 Improving problem-solving with DSA
-* ⚡ Passionate about real-world projects
+My primary focus is Java, Spring Boot, SQL, Microservices, and Data Structures & Algorithms. I enjoy building real-world applications, learning modern technologies, and continuously improving my problem-solving skills.
 
-<br>
+### 🎯 Current Focus
 
-## 📌 What I'm Doing
+✔ Solving DSA Problems Daily
 
-* 🚀 Building Full Stack Applications
-* 🔥 Learning Microservices & System Design
-* 🐳 Working with Docker & CI/CD
-* 📈 Improving coding consistency daily
+✔ Building Production-Level Spring Boot Applications
 
-<br>
+✔ Learning System Design Fundamentals
 
-## 📫 Reach Me
+✔ Exploring Docker & CI/CD
 
-* 📧 **[maurya913639@gmail.com](mailto:maurya913639@gmail.com)**
-* 💼 **linkedin.com/in/anujmaurya6**
+✔ Strengthening Backend Development Skills
+
+✔ Preparing for Software Engineering Opportunities
+
+---
+
+## 📌 What I'm Currently Learning
+
+🚀 Spring Boot Advanced Concepts
+
+🔥 Microservices Architecture
+
+🐳 Docker & Containerization
+
+⚙️ CI/CD Fundamentals
+
+📚 System Design Basics
+
+🧩 Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[maurya913639@gmail.com](mailto:maurya913639@gmail.com)**
+
+💼 LinkedIn: **linkedin.com/in/anujmaurya6**
+
+🐙 GitHub: **github.com/Anujmaurya6**
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" style="border-radius:20px;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" />
 
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+# ⚔️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,react,nextjs,nodejs,express,docker,git,github,postman" />
+</p>
+
+### Backend
+
+* Java
+* Spring Boot
+* Hibernate
+* JPA
+* REST APIs
+* JDBC
+
+### Database
+
+* MySQL
+* PostgreSQL
+* MongoDB
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Next.js
+
+### Tools & DevOps
+
+* Git
+* GitHub
+* Docker
+* Postman
 
 ---
 
-## ⚔️ Tech Stack
+# ⚙️ Backend Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,spring,mysql,postgres,mongodb,docker" />
-</p>
+✔ REST API Development
 
-<p align="center">
-  <b>Java • JavaScript • Spring Boot • React • Node.js • MySQL • MongoDB • Docker</b>
-</p>
+✔ Spring Boot Applications
 
-<br>
+✔ Hibernate & JPA
+
+✔ Database Design
+
+✔ Authentication & Authorization
+
+✔ Exception Handling
+
+✔ Layered Architecture
+
+✔ Docker Fundamentals
+
+✔ CI/CD Basics
 
 ---
 
-## 📊 GitHub Activity
+# 📚 DSA Journey
+
+### Completed
+
+✅ Arrays
+
+✅ Strings
+
+✅ HashMap
+
+✅ HashSet
+
+✅ Sliding Window
+
+✅ Two Pointers
+
+✅ Prefix Sum
+
+✅ Kadane Algorithm
+
+✅ Binary Search
+
+### Currently Learning
+
+🔄 Trees
+
+🔄 Graphs
+
+🔄 Dynamic Programming
+
+🔄 Advanced DSA Patterns
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anujmaurya6&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -89,91 +181,130 @@ focused on building strong backend systems and scalable applications.
   <img src="https://streak-stats.demolab.com?user=Anujmaurya6&theme=tokyonight&hide_border=true" />
 </p>
 
-<br>
-
 ---
 
-## 🚀 Live Developer Activity
+# 🚀 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anujmaurya6&theme=tokyonight" />
 </p>
 
-<br>
-
 ---
 
-## 💻 Coding Activity Graph
+# 💻 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujmaurya6&theme=tokyo-night" />
 </p>
 
-<br>
+---
+
+# 🌐 Coding Profiles
+
+### LeetCode
+
+https://leetcode.com/u/AnujMaurya6/
+
+### GitHub
+
+https://github.com/Anujmaurya6
+
+### LinkedIn
+
+https://linkedin.com/in/anujmaurya6
 
 ---
 
-## 🏆 Achievements & Highlights
+# 🏆 Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Full%20Stack-orange?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/DSA-Problem%20Solver-red?style=for-the-badge" />
 </p>
 
-<br>
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Hospital Management System
+
+**Spring Boot | MySQL | Next.js | Docker**
+
+### Features
+
+✔ Role-Based Management
+
+✔ Appointment Scheduling
+
+✔ Doctor & Patient Records
+
+✔ REST API Development
+
+✔ Database Integration
+
+✔ Dockerized Deployment
 
 ---
 
-## 🚀 Projects
+## 📊 FinSight AI
 
-### 🏥 Hospital Management System
+**Spring Boot | PostgreSQL | React**
 
-Spring Boot | MySQL | Next.js | Docker | CI/CD
+### Features
 
-* Multi-role system (Admin, Doctor, Patient)
-* REST APIs + Database integration
-* Dockerized deployment
-* CI/CD pipeline implementation
+✔ Expense Tracking
 
----
+✔ Financial Analytics
 
-### 📊 FinSight AI
+✔ User Dashboard
 
-Spring Boot | PostgreSQL | Spring AI | React
-
-* Expense tracking & insights
-* Risk analysis system
-* AI-powered recommendations
+✔ Smart Recommendations
 
 ---
 
-### 💬 Realtime Collaboration App
+## 💬 Realtime Collaboration App
 
-MERN Stack | Socket.IO | Docker
+**MERN Stack | Socket.IO | Docker**
 
-* Real-time chat application
-* Live updates using WebSockets
-* MongoDB storage
+### Features
+
+✔ Real-Time Messaging
+
+✔ Online User Tracking
+
+✔ WebSocket Communication
+
+✔ MongoDB Integration
 
 ---
 
-<br>
+# 📈 2026 Goals
+
+🎯 Master Spring Boot Ecosystem
+
+🎯 Become Strong in DSA
+
+🎯 Learn Microservices
+
+🎯 Learn System Design
+
+🎯 Build Production-Ready Applications
+
+🎯 Secure a High-Paying Software Engineering Role
 
 ---
 
-## ⚡ Final Words
+# ⚡ Final Words
 
 <p align="center">
   <i>
-  Every line of code you write today,  
-  builds the engineer you become tomorrow.
+  "Great software is built one commit,<br>
+  one bug fix, and one lesson at a time."
   </i>
 </p>
 
 <p align="center">
-  <b>🚀 Keep building. Keep learning. Keep growing.</b>
+  <b>🚀 Keep Building • Keep Learning • Keep Growing</b>
 </p>
-
-
